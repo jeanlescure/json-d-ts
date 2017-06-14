@@ -1,9 +1,9 @@
 {
   "name": "json-d-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JSON definition for Typescript that allows loading `.json` files using `import`.",
   "main": "",
-  "typings": "json.d.ts",
+  "typings": "type/index.d.ts",
   "scripts": {
     "test": "echo \"Warning: no test specified\""
   },
